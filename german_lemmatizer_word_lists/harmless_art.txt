@@ -1,0 +1,7 @@
+Der  :  der
+Die  :  der
+Dem  :  der
+Den  :  der
+Die  :  der
+Des  :  der
+Das  :  der
